@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-19T21:36:59.216431+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "ET SCAN NMAP -sS scan"
+  },
+  {
+    "timestamp": "2026-02-19T21:36:59.222335+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "PORT SCAN detected"
+  },
+  {
+    "timestamp": "2026-02-19T21:58:53.416052+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "UDP SCAN detected"
+  },
+  {
+    "timestamp": "2026-02-19T21:59:13.947986+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.8",
+    "signature": "PORT SCAN detected"
+  },
+  {
+    "timestamp": "2026-02-19T21:58:44.780915+0530",
+    "src_ip": "192.168.1.5",
+    "dest_ip": "192.168.1.8",
+    "signature": "ET SCAN NMAP -sS scan"
+  },
+  {
+    "timestamp": "2026-02-19T22:00:19.132022+0530",
+    "src_ip": "192.168.1.5",
+    "dest_ip": "192.168.1.8",
+    "signature": "PORT SCAN detected"
+  }
+]
