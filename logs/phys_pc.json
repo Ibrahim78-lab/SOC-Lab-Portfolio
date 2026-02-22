@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-02-19T21:58:44.780915+0530",
+    "src_ip": "192.168.1.5",
+    "dest_ip": "192.168.1.8",
+    "signature": "ET SCAN NMAP -sS scan",
+    "severity": "medium"
+  },
+  {
+    "timestamp": "2026-02-19T22:00:19.132022+0530",
+    "src_ip": "192.168.1.5",
+    "dest_ip": "192.168.1.8",
+    "signature": "PORT SCAN detected",
+    "severity": "medium"
+  }
+]
