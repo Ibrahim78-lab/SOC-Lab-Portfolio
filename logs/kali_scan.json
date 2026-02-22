@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-02-19T21:36:59.216431+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "ET SCAN NMAP -sS scan",
+    "severity": "high"
+  },
+  {
+    "timestamp": "2026-02-19T21:36:59.222335+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "PORT SCAN detected",
+    "severity": "medium"
+  },
+  {
+    "timestamp": "2026-02-19T21:58:53.416052+0530",
+    "src_ip": "192.168.1.23",
+    "dest_ip": "192.168.1.5",
+    "signature": "UDP SCAN detected",
+    "severity": "medium"
+  }
+]
